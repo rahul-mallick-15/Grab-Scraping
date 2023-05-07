@@ -1,0 +1,23 @@
+{
+  "name": "grab-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "eslint": "^8.39.0",
+    "googleapis": "^118.0.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^20.1.0"
+  }
+}

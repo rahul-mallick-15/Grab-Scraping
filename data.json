@@ -1,0 +1,1603 @@
+[
+  {
+    "id": "2-CY2CR65JEXE2AT",
+    "name": "Jollibee - Galaxy Avenida Tower",
+    "latlng": { "latitude": 14.6042276, "longitude": 120.98191968 }
+  },
+  {
+    "id": "2-CYLTTKLJLVNUAA",
+    "name": "Jollibee - Legarda Bustillos",
+    "latlng": { "latitude": 14.601497, "longitude": 120.9929387 }
+  },
+  {
+    "id": "2-CZC1EZEYACBTCX",
+    "name": "Jollibee - Raon",
+    "latlng": { "latitude": 14.600723, "longitude": 120.984396 }
+  },
+  {
+    "id": "2-CY2CR65JLT6VL2",
+    "name": "Jollibee - Manila City Plaza",
+    "latlng": { "latitude": 14.598458, "longitude": 120.983339 }
+  },
+  {
+    "id": "2-CY2CR65KJ4BCG6",
+    "name": "Jollibee - New Hildago",
+    "latlng": { "latitude": 14.597933, "longitude": 120.984415 }
+  },
+  {
+    "id": "2-CY2CR65JEKABTN",
+    "name": "Jollibee - Carriedo",
+    "latlng": { "latitude": 14.598918, "longitude": 120.982287 }
+  },
+  {
+    "id": "2-CY2CR65TCNDGRT",
+    "name": "Jollibee - Quinta Market",
+    "latlng": {
+      "latitude": 14.596570533333333,
+      "longitude": 120.98306461930166
+    }
+  },
+  {
+    "id": "2-CY2CR65JFAVFTJ",
+    "name": "Jollibee - Isetann Recto",
+    "latlng": { "latitude": 14.602921863636364, "longitude": 120.984227 }
+  },
+  {
+    "id": "2-CYM1WAKEJ2CVNN",
+    "name": "Jollibee - Recto Maxim",
+    "latlng": { "latitude": 14.6030644, "longitude": 120.98565456 }
+  },
+  {
+    "id": "2-CY2CR65JL3UCJX",
+    "name": "Jollibee - Morayta",
+    "latlng": { "latitude": 14.603928, "longitude": 120.987692 }
+  },
+  {
+    "id": "2-CY2CR65JC3JVMA",
+    "name": "Jollibee - Mendiola",
+    "latlng": { "latitude": 14.6001323, "longitude": 120.9907459 }
+  },
+  {
+    "id": "2-CYMVWGDVT7JJEE",
+    "name": "Jollibee - JT Centrale cor. Felix Huertas St.",
+    "latlng": { "latitude": 14.60745165, "longitude": 120.9838525 }
+  },
+  {
+    "id": "2-CY2CR65TDAJWR6",
+    "name": "Jollibee - P. Noval",
+    "latlng": { "latitude": 14.6067434, "longitude": 120.98931312561034 }
+  },
+  {
+    "id": "2-CY2CR65JJJC3ET",
+    "name": "Jollibee - SM Manila Ground Floor",
+    "latlng": { "latitude": 14.590332, "longitude": 120.982384 }
+  },
+  {
+    "id": "2-CYMHN7DWAGL2WE",
+    "name": "Chowking - Sta Cruz Manila",
+    "latlng": { "latitude": 14.599834675, "longitude": 120.980555425 }
+  },
+  {
+    "id": "2-CYMHN7KBGB4VJN",
+    "name": "Chowking - Paterno",
+    "latlng": { "latitude": 14.5994997, "longitude": 120.98417191111112 }
+  },
+  {
+    "id": "2-CYMHN7JERUX1AT",
+    "name": "Chowking - Carriedo",
+    "latlng": { "latitude": 14.598841, "longitude": 120.982605 }
+  },
+  {
+    "id": "2-CYMHN7D1RK5HKA",
+    "name": "Chowking - Isetann Recto",
+    "latlng": { "latitude": 14.60264018, "longitude": 120.98438826666667 }
+  },
+  {
+    "id": "2-CYMHN7EHBEKAR2",
+    "name": "Chowking - Avenida Recto",
+    "latlng": {
+      "latitude": 14.603883721428572,
+      "longitude": 120.98188061935484
+    }
+  },
+  {
+    "id": "2-CYMHN7BBVYKGCA",
+    "name": "Chowking - Legarda-Earnshaw",
+    "latlng": { "latitude": 14.601749, "longitude": 120.99274299999999 }
+  },
+  {
+    "id": "2-CYMHN7KWCNMHJE",
+    "name": "Chowking - P Noval",
+    "latlng": { "latitude": 14.60655955, "longitude": 120.98922642 }
+  },
+  {
+    "id": "2-CYUZC8BCT7BWLX",
+    "name": "KFC - P Campa",
+    "latlng": {
+      "latitude": 14.605807997208572,
+      "longitude": 120.98817886039717
+    }
+  },
+  {
+    "id": "2-CYU3LAJUVJM1AN",
+    "name": "KFC - Good Earth",
+    "latlng": {
+      "latitude": 14.599339283333334,
+      "longitude": 120.98126608333332
+    }
+  },
+  {
+    "id": "2-CYUZC8BTGJ51GJ",
+    "name": "KFC - Sta Cruz",
+    "latlng": { "latitude": 14.599968222336393, "longitude": 120.98002192 }
+  },
+  {
+    "id": "2-CYUZC8BGCY6JHA",
+    "name": "KFC - Recto",
+    "latlng": { "latitude": 14.601205608333334, "longitude": 120.98895094 }
+  },
+  {
+    "id": "PHGFSTI000004nx",
+    "name": "McDonald's - P. Campa",
+    "latlng": { "latitude": 14.6059124, "longitude": 120.9882833 }
+  },
+  {
+    "id": "2-CZJGLA3CVBDTBA",
+    "name": "McDonald's - Recto Rizal Avenue",
+    "latlng": {
+      "latitude": 14.603855064093736,
+      "longitude": 120.98182664795519
+    }
+  },
+  {
+    "id": "AWiD471efYWaYaQC4nXk",
+    "name": "McDonald's - Lepanto",
+    "latlng": { "latitude": 14.6017771, "longitude": 120.9882822 }
+  },
+  {
+    "id": "2-CYLWEVDJUCC3CN",
+    "name": "McDonald's - Bustillos",
+    "latlng": { "latitude": 14.60225242374787, "longitude": 120.9929956247289 }
+  },
+  {
+    "id": "2-C2DBEX5CC4MEVN",
+    "name": "McDonald's - Good Earth",
+    "latlng": { "latitude": 14.59968074, "longitude": 120.9813703 }
+  },
+  {
+    "id": "2-CZJGLA3CV4AJLT",
+    "name": "McDonald's - Isetann Recto",
+    "latlng": { "latitude": 14.603099019999998, "longitude": 120.9840948 }
+  },
+  {
+    "id": "2-CYLWEVDHRFBVJE",
+    "name": "McDonald's - Morayta",
+    "latlng": { "latitude": 14.602378, "longitude": 120.9872051 }
+  },
+  {
+    "id": "AWiD5JwQfYWaYaQC4nY4",
+    "name": "McDonald's - Sta Cruz Church",
+    "latlng": { "latitude": 14.599870428571428, "longitude": 120.9797005 }
+  },
+  {
+    "id": "2-CYLYA3MATEUTRJ",
+    "name": "McDonald's - Legarda-Recto",
+    "latlng": { "latitude": 14.60056252, "longitude": 120.99098895 }
+  },
+  {
+    "id": "2-CYLWEVDGLEMTKE",
+    "name": "McDonald's - Mendiola",
+    "latlng": { "latitude": 14.59814131259918, "longitude": 120.99299909999999 }
+  },
+  {
+    "id": "2-C3CTAAWDNFDXJA",
+    "name": "McDonald's - Muralla",
+    "latlng": { "latitude": 14.59280746, "longitude": 120.9778372 }
+  },
+  {
+    "id": "2-CYKTRUDUNNVAFE",
+    "name": "Greenwich - Morayta",
+    "latlng": { "latitude": 14.605052, "longitude": 120.988034 }
+  },
+  {
+    "id": "2-CZD1JGLJCTNVNA",
+    "name": "Greenwich - Carriedo",
+    "latlng": { "latitude": 14.5989135, "longitude": 120.9817615 }
+  },
+  {
+    "id": "2-CZD1JGLJABBVVA",
+    "name": "Greenwich - Isetann Recto",
+    "latlng": { "latitude": 14.602752, "longitude": 120.984799 }
+  },
+  {
+    "id": "2-C2J3BF3DSA2YRX",
+    "name": "Boodle Inasal - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.607157, "longitude": 120.987687 }
+  },
+  {
+    "id": "PHGFSTI000000zw",
+    "name": "Angel's Pizza - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.599262918622557, "longitude": 120.9900343411054 }
+  },
+  {
+    "id": "2-C3MYFETFRZAAVE",
+    "name": "Coffee Army - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60594708, "longitude": 120.9912717 }
+  },
+  {
+    "id": "2-CZKCBFBFRLCUTN",
+    "name": "Minute Burger - Gastambide [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6025839, "longitude": 120.9904756 }
+  },
+  {
+    "id": "2-CZKCC2CWGUDHUA",
+    "name": "Minute Burger - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60060412, "longitude": 120.9850158 }
+  },
+  {
+    "id": "2-CZNTDF6TMAE2CJ",
+    "name": "Supreme Wings - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6007482, "longitude": 120.9912594 }
+  },
+  {
+    "id": "2-CZNTDBLDT8DJRA",
+    "name": "Sausage Supreme - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6008, "longitude": 120.991116 }
+  },
+  {
+    "id": "2-CZMVEKT3CCBJJN",
+    "name": "Crazy Chops - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6007979, "longitude": 120.9911282 }
+  },
+  {
+    "id": "2-C36KHGCVGNKXAT",
+    "name": "Katsunori Food Hall - Sta. Cruz [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.606502, "longitude": 120.981819 }
+  },
+  {
+    "id": "2-C2TYVEUVLRMKJN",
+    "name": "Seafood Hauz - Gastambide [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6014, "longitude": 120.991008 }
+  },
+  {
+    "id": "2-CZNFWE3UCTVJNE",
+    "name": "Bo's Coffee - Espana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6062743, "longitude": 120.9890109 }
+  },
+  {
+    "id": "2-C2TYV2AJJBMUGX",
+    "name": "Halina Hotel & Restaurant - Rizal Avenue",
+    "latlng": {
+      "latitude": 14.601594265287872,
+      "longitude": 120.98144542327992
+    }
+  },
+  {
+    "id": "2-CY5HJJNJPBAKLJ",
+    "name": "Citystate Hotel - Carlos Palanca Street",
+    "latlng": { "latitude": 14.5981625, "longitude": 120.98201569999999 }
+  },
+  {
+    "id": "2-CY6BDFWDEU3DJ6",
+    "name": "Citystate Hotel - Quezon Boulevard",
+    "latlng": {
+      "latitude": 14.599413933483214,
+      "longitude": 120.98413149999999
+    }
+  },
+  {
+    "id": "2-CY4YGT62L6A3V2",
+    "name": "Vista Hotel and Restaurant - Recto Street",
+    "latlng": { "latitude": 14.6038780625, "longitude": 120.9812034 }
+  },
+  {
+    "id": "2-C2AXL8KGA7XEUA",
+    "name": "Ali and Pau Foodhouse - Quiapo",
+    "latlng": { "latitude": 14.599928333333333, "longitude": 120.9882267 }
+  },
+  {
+    "id": "2-C4BAJNCTLE22EA",
+    "name": "Kaimasu - University Belt [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60258279, "longitude": 120.99045269 }
+  },
+  {
+    "id": "2-C2VKFFJ3L6XZBE",
+    "name": "Joni's Pizza, Pasta and Grill - Ubelt Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6044, "longitude": 120.99042 }
+  },
+  {
+    "id": "2-CZE2EK6UJ7EVPE",
+    "name": "24 Chicken - Mendiola [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.599993593888414, "longitude": 120.9906229630875 }
+  },
+  {
+    "id": "2-CZEVCLBZJT5CHE",
+    "name": "24 Chicken - T. Pinpin [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6001366, "longitude": 120.9763103 }
+  },
+  {
+    "id": "2-C2LBGJNDVAAHRJ",
+    "name": "24 Chicken - Espana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6064864, "longitude": 120.9896774 }
+  },
+  {
+    "id": "2-CYTCLAX2RFEYEJ",
+    "name": "Andok's Dine-In - Quiapo",
+    "latlng": { "latitude": 14.6017109, "longitude": 120.9850132 }
+  },
+  {
+    "id": "PHGFSTI000004jb",
+    "name": "BonChon - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5997547, "longitude": 120.9904516 }
+  },
+  {
+    "id": "PHGFSTI000004jg",
+    "name": "BonChon - Morayta",
+    "latlng": { "latitude": 14.6047087, "longitude": 120.98784499245284 }
+  },
+  {
+    "id": "2-C22KFF6CGFL3G6",
+    "name": "Burger Matsing  - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.601068, "longitude": 120.991649 }
+  },
+  {
+    "id": "2-CY42TKKCAVE2DE",
+    "name": "Starbucks - FEU Nicanor Reyes Ave",
+    "latlng": { "latitude": 14.603440433333333, "longitude": 120.9877698 }
+  },
+  {
+    "id": "2-CY42TKKBTU4DA2",
+    "name": "Starbucks - Pacific Center Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.598539382002997,
+      "longitude": 120.97566239164144
+    }
+  },
+  {
+    "id": "2-CY42TKKCAAL3VN",
+    "name": "Starbucks - La Consolacion College Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.597956252093127,
+      "longitude": 120.99321434826533
+    }
+  },
+  {
+    "id": "2-CY42TKKBVPJJT2",
+    "name": "Starbucks - I Tower P Noval",
+    "latlng": {
+      "latitude": 14.607214122737872,
+      "longitude": 120.98886850526878
+    }
+  },
+  {
+    "id": "2-C3LZWAXWGVBEFA",
+    "name": "Starbucks - Herald Building",
+    "latlng": { "latitude": 14.5929645, "longitude": 120.9777873 }
+  },
+  {
+    "id": "2-CYTCLA2DWCNFT6",
+    "name": "Andok's - Carriedo",
+    "latlng": { "latitude": 14.5990063, "longitude": 120.9814594 }
+  },
+  {
+    "id": "2-CYTCLAX3GVEXMA",
+    "name": "Andok's - Doroteo Jose",
+    "latlng": { "latitude": 14.6055512375, "longitude": 120.9820263 }
+  },
+  {
+    "id": "2-CYTCLAXHTA3GKE",
+    "name": "Andok's - Central Market",
+    "latlng": { "latitude": 14.60754, "longitude": 120.9846039 }
+  },
+  {
+    "id": "2-C3NYE6AVG8CARE",
+    "name": "Sukiya - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.590312, "longitude": 120.983149 }
+  },
+  {
+    "id": "2-C3JDLZMCRJWANE",
+    "name": "Paotsin - Victory Lacson Underpass [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5980502, "longitude": 120.9838609 }
+  },
+  {
+    "id": "2-C3EHAJVXLCBVVN",
+    "name": "Paotsin - Good Earth Plaza Mall [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59980821, "longitude": 120.9811871 }
+  },
+  {
+    "id": "PHGFSTI000000tp",
+    "name": "Hot Star Large Fried Chicken - Laperal [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6009775, "longitude": 120.9899533 }
+  },
+  {
+    "id": "2-C3AYE2VKAJWVJJ",
+    "name": "Kyu Kyu Ramen 99 - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5902886, "longitude": 120.9833111 }
+  },
+  {
+    "id": "2-CYVKSE5CLBNHGX",
+    "name": "Tropical Hut Hamburger - Escolta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.597299399999999, "longitude": 120.9780227 }
+  },
+  {
+    "id": "2-CYTJJX2HGFA3PE",
+    "name": "Ate Rica's Bacsilog - Shopper's Mart [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600689, "longitude": 120.975685 }
+  },
+  {
+    "id": "AWj-WS3KfYWaYaQC48h5",
+    "name": "S&R New York Style Pizza - SM Manila",
+    "latlng": { "latitude": 14.5901269, "longitude": 120.98368076666667 }
+  },
+  {
+    "id": "2-CYUJJNTDCZCXNX",
+    "name": "Turks - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5981151, "longitude": 120.98410679999999 }
+  },
+  {
+    "id": "2-CYUJJNUFC74EGN",
+    "name": "Turks - Isetann Recto",
+    "latlng": { "latitude": 14.603095, "longitude": 120.984133 }
+  },
+  {
+    "id": "2-CYUJJNU2N6KFTA",
+    "name": "Turks - Recto",
+    "latlng": { "latitude": 14.601017, "longitude": 120.989913 }
+  },
+  {
+    "id": "2-CYUJJNNBRUNCCX",
+    "name": "Turks - Legarda Mendiola",
+    "latlng": { "latitude": 14.5999207, "longitude": 120.9905988 }
+  },
+  {
+    "id": "2-C3XAJXJVGRJJNA",
+    "name": "Turks - Shoppers Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60065788, "longitude": 120.9755842 }
+  },
+  {
+    "id": "2-CY6YBCLFC25HJN",
+    "name": "Turks - Bustillos Manila",
+    "latlng": { "latitude": 14.60213, "longitude": 120.99287 }
+  },
+  {
+    "id": "2-C3U1JPLAHA3WTT",
+    "name": "CoCo Fresh Tea & Juice - Youniversity",
+    "latlng": { "latitude": 14.6009454, "longitude": 120.9901214 }
+  },
+  {
+    "id": "PHGFSTI0000019k",
+    "name": "David's Tea House - Sta. Cruz [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60081561, "longitude": 120.9792872 }
+  },
+  {
+    "id": "2-C2B1N8AYJTUJJE",
+    "name": "Farinas Ilocos Empanada - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600459, "longitude": 120.983485 }
+  },
+  {
+    "id": "2-C23KCYNANNDJNN",
+    "name": "Zagu - Carriedo",
+    "latlng": {
+      "latitude": 14.599014971754528,
+      "longitude": 120.98156781349235
+    }
+  },
+  {
+    "id": "2-C2MKTPBVAFW3RA",
+    "name": "Tasty Dumplings - Condesa [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600781, "longitude": 120.974841 }
+  },
+  {
+    "id": "2-CYLCMEJHCNTCGJ",
+    "name": "Pizza Hut - CM Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6022463, "longitude": 120.98692623157895 }
+  },
+  {
+    "id": "2-C35YLAXXCJCGEE",
+    "name": "Fruitas - Youniversity Suites Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60102784, "longitude": 120.9899367 }
+  },
+  {
+    "id": "2-CYNFTU4BAKVBJA",
+    "name": "Fruitas - SM Manila",
+    "latlng": { "latitude": 14.59017863515173, "longitude": 120.98293374232931 }
+  },
+  {
+    "id": "2-CZNFE361TKDVGX",
+    "name": "Chuan Kee Turo Turo - Ongpin Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60044895128205, "longitude": 120.9755047 }
+  },
+  {
+    "id": "2-C3LHKB3JE7XJNX",
+    "name": "Kowloon House - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59984597, "longitude": 120.9845705 }
+  },
+  {
+    "id": "2-C3KHLT4GT4CVDE",
+    "name": "Master Siomai, Siopao & Leche Flan - Sampaloc Manila",
+    "latlng": { "latitude": 14.59888, "longitude": 120.98153 }
+  },
+  {
+    "id": "2-C35UJ3D3CK3KKE",
+    "name": "Poldo's Steakhouse - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60765796, "longitude": 120.9861031 }
+  },
+  {
+    "id": "2-CYMABFMXBF43CN",
+    "name": "King Sisig - Isetann Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.603071641666666, "longitude": 120.98418 }
+  },
+  {
+    "id": "2-CYTWMEXGLZDTGX",
+    "name": "Red Ribbon - Binondo",
+    "latlng": { "latitude": 14.5982956, "longitude": 120.9757438 }
+  },
+  {
+    "id": "2-C2THTVL3PBLVJ6",
+    "name": "Red Ribbon - Legarda",
+    "latlng": { "latitude": 14.601425, "longitude": 120.992756 }
+  },
+  {
+    "id": "2-C3CUREWECVJKE6",
+    "name": "MDM Food House - Sta. Cruz [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.601355, "longitude": 120.976852 }
+  },
+  {
+    "id": "2-C2LKETB1KADEV2",
+    "name": "Sharetea - Ongpin",
+    "latlng": {
+      "latitude": 14.600090703165407,
+      "longitude": 120.97508170221225
+    }
+  },
+  {
+    "id": "2-C2MFREUZN6WKLN",
+    "name": "Wai Ying Fastfood - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.602069, "longitude": 120.975989 }
+  },
+  {
+    "id": "2-CZBAC2TVVCDXVN",
+    "name": "Potato Corner - Good Earth Plaza",
+    "latlng": { "latitude": 14.59971786, "longitude": 120.981339 }
+  },
+  {
+    "id": "2-C3MZA2U2NKCVAE",
+    "name": "Potato Corner - Isetann Recto",
+    "latlng": { "latitude": 14.602955, "longitude": 120.984146 }
+  },
+  {
+    "id": "2-C24GG32BEJNKEN",
+    "name": "Potato Corner - T. Pinpin Street",
+    "latlng": { "latitude": 14.59816692, "longitude": 120.9790542 }
+  },
+  {
+    "id": "2-C3ECTJVHCNAYVJ",
+    "name": "Potato Corner - Pacific Center Binondo",
+    "latlng": { "latitude": 14.59846781, "longitude": 120.975742 }
+  },
+  {
+    "id": "PHGFSTI000001cl",
+    "name": "Golden Fortune Seafood Restaurant - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.603557, "longitude": 120.97757 }
+  },
+  {
+    "id": "2-CYXGAAETCFLVNX",
+    "name": "Shawarma Shack - Isetann Recto",
+    "latlng": { "latitude": 14.602945795236323, "longitude": 120.9840936441795 }
+  },
+  {
+    "id": "2-C3DDUBXCNYT3HA",
+    "name": "Shawarma Shack - Binondo Manila",
+    "latlng": { "latitude": 14.60037332, "longitude": 120.9807404 }
+  },
+  {
+    "id": "2-C2UJAE53EN6HHE",
+    "name": "Shawarma Shack - St. Thomas Square Espana Boulevard [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60554, "longitude": 120.988713 }
+  },
+  {
+    "id": "2-C2BANAUWAGNVEN",
+    "name": "Toribox - Tower Manila",
+    "latlng": { "latitude": 14.607301, "longitude": 120.988807 }
+  },
+  {
+    "id": "2-CY22C6CCSADZG2",
+    "name": "Black Scoop Cafe - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6000499, "longitude": 120.9906598 }
+  },
+  {
+    "id": "2-CY2FBBU1R3KFLX",
+    "name": "Sincerity Cafe & Restaurant - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.599068014727354, "longitude": 120.975219818386 }
+  },
+  {
+    "id": "2-C22JWEMHC8CALX",
+    "name": "Ling Nam - Alonzo [Available for LONG DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6022232, "longitude": 120.9785885 }
+  },
+  {
+    "id": "2-CYTJJB21TEM3BA",
+    "name": "Yi Fang Taiwan Fruit Tea 一芳台灣水果茶 - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.598788, "longitude": 120.975457 }
+  },
+  {
+    "id": "2-CYMAEFJXNUX1SE",
+    "name": "Bulalo World - Isetann Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60283715, "longitude": 120.9843469 }
+  },
+  {
+    "id": "2-CYTKGTWXLBXUVA",
+    "name": "Oh My Chicken! - Youniversity Suites",
+    "latlng": {
+      "latitude": 14.600999484615384,
+      "longitude": 120.99033345000001
+    }
+  },
+  {
+    "id": "2-CZKULF3FEKKFBE",
+    "name": "Hai Pio Pares + Bbq - Carriedo",
+    "latlng": { "latitude": 14.598816, "longitude": 120.982012 }
+  },
+  {
+    "id": "2-CZMACCEBL3DDUE",
+    "name": "Goldilocks - Good Earth Carriedo Bakeshop",
+    "latlng": { "latitude": 14.5994472, "longitude": 120.9812578 }
+  },
+  {
+    "id": "2-CZMACCEBDFK3HA",
+    "name": "Goldilocks - Quinta Market Bakeshop",
+    "latlng": { "latitude": 14.5966935, "longitude": 120.9830134 }
+  },
+  {
+    "id": "2-CZMACCEBJGDGCX",
+    "name": "Goldilocks - Isetann Recto Bakeshop",
+    "latlng": { "latitude": 14.6026551, "longitude": 120.98473408 }
+  },
+  {
+    "id": "PHGFSTI000001p9",
+    "name": "Mr. Ube Rice and Noodle Haus - Ongpin Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.600840155867786,
+      "longitude": 120.97590531485673
+    }
+  },
+  {
+    "id": "2-C2WJJCA3G3ATNT",
+    "name": "Go Bento - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.599924, "longitude": 120.990554 }
+  },
+  {
+    "id": "2-C2LGNT4HGCCBEN",
+    "name": "The Aristocrat Restaurant - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59033764, "longitude": 120.9837502 }
+  },
+  {
+    "id": "2-CZAYN2CKKAJTGJ",
+    "name": "Dakasi Milktea - Hotstar Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600982475, "longitude": 120.9899579 }
+  },
+  {
+    "id": "2-C3JTJRJJNAL1VJ",
+    "name": "The Thai Plate - Fugoso Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60788036, "longitude": 120.9819664 }
+  },
+  {
+    "id": "2-C2KZC4NUKBAKUE",
+    "name": "Gong Cha - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59035095, "longitude": 120.9837783 }
+  },
+  {
+    "id": "2-CZBAACMYE6VTHE",
+    "name": "The Great Buddha Cafe - Ongpin [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600144125, "longitude": 120.9751577 }
+  },
+  {
+    "id": "PHGFSTI000001d8",
+    "name": "Hong Kong Noodles & Dimsum House - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59921805, "longitude": 120.9841343 }
+  },
+  {
+    "id": "PHGFSTI000001ie",
+    "name": "Hong Kong Noodles & Dimsum House - Carlos Palanca Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5981983, "longitude": 120.98199686000001 }
+  },
+  {
+    "id": "2-C2L2R22CVX6HAA",
+    "name": "Cafe Mezzanine - Binondo",
+    "latlng": { "latitude": 14.60042657, "longitude": 120.9755354 }
+  },
+  {
+    "id": "2-C2U2EXCFHGJATA",
+    "name": "Cafe De Soledad - Gastambide St.",
+    "latlng": { "latitude": 14.6019746, "longitude": 120.9906221 }
+  },
+  {
+    "id": "2-C2NZNPLTLPJDDE",
+    "name": "Quickly - Shoppers Mart [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6005857, "longitude": 120.97566 }
+  },
+  {
+    "id": "2-CZAHEABBVN3JRE",
+    "name": "Tim Hortons - CEU",
+    "latlng": { "latitude": 14.599783433333334, "longitude": 120.9915111 }
+  },
+  {
+    "id": "PHGFSTI0000016w",
+    "name": "Cafe France - Ongpin Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6005704, "longitude": 120.9756178 }
+  },
+  {
+    "id": "2-CYWJVJJJAFMCJ6",
+    "name": "Dunkin' - Good Earth",
+    "latlng": { "latitude": 14.5994736, "longitude": 120.98125222 }
+  },
+  {
+    "id": "2-C3LGAAKETY3EUA",
+    "name": "Dunkin' - Legarda",
+    "latlng": { "latitude": 14.59948404, "longitude": 120.9903842 }
+  },
+  {
+    "id": "2-CYWJVJJHUFUAGN",
+    "name": "Dunkin' - Doroteo Jose",
+    "latlng": {
+      "latitude": 14.605235227272727,
+      "longitude": 120.98199893731714
+    }
+  },
+  {
+    "id": "2-CYWJVJJHVGDHEX",
+    "name": "Dunkin' - Espana",
+    "latlng": { "latitude": 14.6054418, "longitude": 120.98810287333333 }
+  },
+  {
+    "id": "2-CYWJVJJJA4K2FA",
+    "name": "Dunkin' - Zen Tower",
+    "latlng": { "latitude": 14.59038815, "longitude": 120.984251 }
+  },
+  {
+    "id": "2-C2KTENU2GVJXBE",
+    "name": "Yo! Madi Yogurt Shake - Binondo Manila",
+    "latlng": { "latitude": 14.600276, "longitude": 120.975791 }
+  },
+  {
+    "id": "2-C2WXMEK1NRLJT2",
+    "name": "One Zo Tapioca - Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600777, "longitude": 120.990337 }
+  },
+  {
+    "id": "2-C2UGAEDFJYCDFA",
+    "name": "Pancit Ng Taga Malabon - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5975467, "longitude": 120.9837582 }
+  },
+  {
+    "id": "PHGFSTI000001ct",
+    "name": "Hap Chan - Tomas Mapua [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.601413, "longitude": 120.97967 }
+  },
+  {
+    "id": "2-CY2EV76CAKN3EA",
+    "name": "Don Benito's - Quiapo",
+    "latlng": { "latitude": 14.597695, "longitude": 120.9839091 }
+  },
+  {
+    "id": "2-C2JVWET1VFEZLE",
+    "name": "Bon Appetea - Escolta",
+    "latlng": { "latitude": 14.5970308, "longitude": 120.9776465 }
+  },
+  {
+    "id": "2-C3XZTVCAVPVEAN",
+    "name": "Butternut Bakery - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.590339, "longitude": 120.983648 }
+  },
+  {
+    "id": "2-CYJ2NBDCN2VWLE",
+    "name": "D'Cream Coffee & Tea - Gastambide",
+    "latlng": { "latitude": 14.602537159456176, "longitude": 120.990464275 }
+  },
+  {
+    "id": "PHGFSTI000002ui",
+    "name": "D'Cream Coffee & Tea - Sampaloc",
+    "latlng": { "latitude": 14.607065144444444, "longitude": 120.9890435 }
+  },
+  {
+    "id": "2-C2WBJPWDVBJJHE",
+    "name": "Lord Stow's Bakery - Ongpin [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.601146882181197,
+      "longitude": 120.97581781349015
+    }
+  },
+  {
+    "id": "2-C36YLPU3ALLGCX",
+    "name": "Avocadoria - SM Manila",
+    "latlng": { "latitude": 14.59030454, "longitude": 120.983721 }
+  },
+  {
+    "id": "2-C2DJA223BEC2NE",
+    "name": "The Coffee Bean & Tea Leaf - Laperal Apartments",
+    "latlng": { "latitude": 14.60087365, "longitude": 120.9900855 }
+  },
+  {
+    "id": "2-C363V7VELE3UV2",
+    "name": "Better Boneless - Gastambide Manila",
+    "latlng": { "latitude": 14.60275287, "longitude": 120.9904445 }
+  },
+  {
+    "id": "2-C3W2E2CEFFKKLT",
+    "name": "Cala Cafe - University Tower 4",
+    "latlng": { "latitude": 14.6062605, "longitude": 120.9898449 }
+  },
+  {
+    "id": "2-C32YDBBGCGBTAX",
+    "name": "Uno's Steaks and Wine - Macaraeg Building Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6074655, "longitude": 120.98671 }
+  },
+  {
+    "id": "2-CZA3E7VHNYWVAE",
+    "name": "Awi's Cafe & Restaurant - Yuchengco Street",
+    "latlng": { "latitude": 14.59946708, "longitude": 120.9762634 }
+  },
+  {
+    "id": "2-C4A2RAVUVBBUGE",
+    "name": "Gang Gang Chicken - Mendiola",
+    "latlng": { "latitude": 14.60061149, "longitude": 120.9903144 }
+  },
+  {
+    "id": "2-C3V1GNVYTYTTLN",
+    "name": "Gang Gang Chicken - Padre Campa [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6077005, "longitude": 120.9864182 }
+  },
+  {
+    "id": "2-C333JGCWERLFT2",
+    "name": "R.Lapid's Chicharon & Barbecue - SM Manila",
+    "latlng": { "latitude": 14.5903242, "longitude": 120.982393 }
+  },
+  {
+    "id": "AWhenY1ckk5cOZVWu4Ya",
+    "name": "Chooks To Go - Legarda Street Manila",
+    "latlng": { "latitude": 14.600708, "longitude": 120.9913878 }
+  },
+  {
+    "id": "AWhenS-4fYWaYaQC4cfW",
+    "name": "Chooks To Go - Shoppers Mart Ongpin",
+    "latlng": { "latitude": 14.6005024, "longitude": 120.9755674 }
+  },
+  {
+    "id": "2-C4BEEECTE6D1UE",
+    "name": "24/7 Food Hub - Mix and Match (Sta. Cruz)",
+    "latlng": { "latitude": 14.606543, "longitude": 120.981725 }
+  },
+  {
+    "id": "2-C4BTR4BZN6AJTJ",
+    "name": "T-Cup-Zone - Morayta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60369979, "longitude": 120.9882075 }
+  },
+  {
+    "id": "2-CZJTNVL3RZE1JX",
+    "name": "Mang Inasal - Raon",
+    "latlng": { "latitude": 14.6005303, "longitude": 120.98354057833333 }
+  },
+  {
+    "id": "2-CZJTNVL3RUTAG6",
+    "name": "Mang Inasal - Quezon Boulevard",
+    "latlng": { "latitude": 14.6007871, "longitude": 120.9844008 }
+  },
+  {
+    "id": "2-CZDEV76BTN4BLX",
+    "name": "Mang Inasal - Hidalgo",
+    "latlng": { "latitude": 14.59800621724138, "longitude": 120.9841833 }
+  },
+  {
+    "id": "2-CZECJXA2NAMXNA",
+    "name": "Mang Inasal - Good Earth",
+    "latlng": { "latitude": 14.599698, "longitude": 120.981409 }
+  },
+  {
+    "id": "2-CY2AME5WDCBWDA",
+    "name": "Mang Inasal - Avenida",
+    "latlng": { "latitude": 14.6014556, "longitude": 120.98158099607843 }
+  },
+  {
+    "id": "2-CZJTNVL3RX22TT",
+    "name": "Mang Inasal - Isetann recto",
+    "latlng": { "latitude": 14.6029981, "longitude": 120.98413493333334 }
+  },
+  {
+    "id": "2-CZCVUA42CA2FTN",
+    "name": "Mang Inasal - Doroteo Jose",
+    "latlng": { "latitude": 14.6050119, "longitude": 120.98195319999999 }
+  },
+  {
+    "id": "2-CZDEV76BTREHKE",
+    "name": "Mang Inasal - Morayta",
+    "latlng": { "latitude": 14.605344959550562, "longitude": 120.9881068 }
+  },
+  {
+    "id": "2-C4BFPADKEZKYUA",
+    "name": "Dimsum Treats - Morayta Recto",
+    "latlng": { "latitude": 14.60238754, "longitude": 120.9873186 }
+  },
+  {
+    "id": "2-CYWKAF4HRY4YKA",
+    "name": "Lola Nena's - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.600584697631476, "longitude": 120.9915296604429 }
+  },
+  {
+    "id": "2-CYX3ALEZHAAUHE",
+    "name": "Lola Nena's - Espana Boulevard [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60594795, "longitude": 120.9885574 }
+  },
+  {
+    "id": "2-C2NXDB2GJJ5JET",
+    "name": "President Grand Palace Resturant - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.601248, "longitude": 120.976369 }
+  },
+  {
+    "id": "2-C25YJ2DWTT2ZJJ",
+    "name": "Soy & Bean - Pacific Centre Binondo",
+    "latlng": { "latitude": 14.5984653, "longitude": 120.9756467 }
+  },
+  {
+    "id": "2-C25YJ2DWR6CHAN",
+    "name": "Soy & Bean - Jose Figueras",
+    "latlng": { "latitude": 14.60213, "longitude": 120.99287 }
+  },
+  {
+    "id": "2-CZAZLB2BFAXHAT",
+    "name": "Fudo-San - Sta. Cruz",
+    "latlng": { "latitude": 14.599638, "longitude": 120.981279 }
+  },
+  {
+    "id": "2-C3VHRNWBWFMGBE",
+    "name": "Kumpapis - Muralla St. Manila",
+    "latlng": { "latitude": 14.59386863, "longitude": 120.9764155 }
+  },
+  {
+    "id": "2-CZBHAKAWAPAGGE",
+    "name": "Chops To Go - SM Manila",
+    "latlng": { "latitude": 14.59029533, "longitude": 120.9822236 }
+  },
+  {
+    "id": "2-C3XTBEVAARAVVE",
+    "name": "Sun Cafe - Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60004985, "longitude": 120.9748967 }
+  },
+  {
+    "id": "2-C2XVRNTUSGCGLX",
+    "name": "Brownies Unlimited - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.590633, "longitude": 120.982442 }
+  },
+  {
+    "id": "2-C35CSECUJKECNE",
+    "name": "Hen Lin - SM Manila",
+    "latlng": { "latitude": 14.59028406, "longitude": 120.9822651 }
+  },
+  {
+    "id": "2-CYV2KCM1TBJAV6",
+    "name": "Coffee Project - Vista Heights",
+    "latlng": { "latitude": 14.597548, "longitude": 120.9896859 }
+  },
+  {
+    "id": "2-CYV2KCM1RYUAPE",
+    "name": "Coffee Project - Espana Boulevard",
+    "latlng": { "latitude": 14.606211080000001, "longitude": 120.98912455 }
+  },
+  {
+    "id": "PHGFSTI000003f9",
+    "name": "Cafe Aquatica - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6003466, "longitude": 120.9745674 }
+  },
+  {
+    "id": "2-C3AYNLCBDBK3GJ",
+    "name": "Balai Pandesal - JT Centrale",
+    "latlng": { "latitude": 14.606922, "longitude": 120.983885 }
+  },
+  {
+    "id": "2-CYXJNY4XHGDXDA",
+    "name": "Chawadi Cup - Ongpin [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.601409, "longitude": 120.97643 }
+  },
+  {
+    "id": "2-C23ZNBUFGADZTN",
+    "name": "Dadudz Unli Wings - St. Thomas Square [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60562305, "longitude": 120.988576 }
+  },
+  {
+    "id": "2-C4BAJ3VJRLCTG6",
+    "name": "THE Hungry Egg - San Anton Street. Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60283278, "longitude": 120.9905063 }
+  },
+  {
+    "id": "2-C2WCLK4VARLDUE",
+    "name": "Corner Pizza - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.590311550202747,
+      "longitude": 120.98234887288855
+    }
+  },
+  {
+    "id": "2-CZLHC2CVNE51GE",
+    "name": "Polland Hopia - Escolta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.596918306778491,
+      "longitude": 120.97725604555215
+    }
+  },
+  {
+    "id": "2-CZLKKE53JP3AVX",
+    "name": "Polland Hopia - Benavidez Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6028637, "longitude": 120.9765244 }
+  },
+  {
+    "id": "2-C3AXJVNVLPVUL6",
+    "name": "Fruitas & De Original Jamaican Pattie Shop and Juice Bar - Pacific Centre",
+    "latlng": { "latitude": 14.59853427, "longitude": 120.9757058 }
+  },
+  {
+    "id": "2-C3LVN26TTAKJG6",
+    "name": "Muhlach Ensaymada - Isetann Recto",
+    "latlng": { "latitude": 14.60329675, "longitude": 120.9838466 }
+  },
+  {
+    "id": "2-CYV3JUW3LPNXTE",
+    "name": "Muhlach Ensaymada - SM Manila",
+    "latlng": { "latitude": 14.59031903, "longitude": 120.983099 }
+  },
+  {
+    "id": "2-C2LYCNJHSATBSA",
+    "name": "Buko Express - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59034416, "longitude": 120.9830165 }
+  },
+  {
+    "id": "2-CZMUG6BAJTKZE6",
+    "name": "Sip & Chow Food Express - Gastambide Street",
+    "latlng": { "latitude": 14.604441, "longitude": 120.990626 }
+  },
+  {
+    "id": "2-C3LCLAVAL3JDGX",
+    "name": "Max's Corner Bakery (Cakes, Breads & Pastries) - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59030917, "longitude": 120.9837155 }
+  },
+  {
+    "id": "2-C2EBR24TC76JDA",
+    "name": "Sisig Ok - Recto Manila",
+    "latlng": { "latitude": 14.60080873, "longitude": 120.9898487 }
+  },
+  {
+    "id": "2-C343ENC1RA31DE",
+    "name": "GrillHouse by BMS - Recto Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6009677, "longitude": 120.9900593 }
+  },
+  {
+    "id": "2-C2DBEKLJGPAXC6",
+    "name": "Big Daddy's Cup - JT Centrale",
+    "latlng": { "latitude": 14.6076433, "longitude": 120.9837719 }
+  },
+  {
+    "id": "2-C2UBVTU3GJXHKE",
+    "name": "Goo Dee Taiwan Milk Tea - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60183, "longitude": 120.99336 }
+  },
+  {
+    "id": "2-C2L1VXUYJAWDTE",
+    "name": "Baon Fish - Manila",
+    "latlng": { "latitude": 14.60653725, "longitude": 120.9884474 }
+  },
+  {
+    "id": "2-C2UWV6DZJ34ETT",
+    "name": "Pares Kimchi - Mehan Garden",
+    "latlng": {
+      "latitude": 14.591493865386227,
+      "longitude": 120.98114533527132
+    }
+  },
+  {
+    "id": "2-C3V1FFVYE6ECRE",
+    "name": "Choco Monkey - SM Manila",
+    "latlng": { "latitude": 14.5903182, "longitude": 120.9831812 }
+  },
+  {
+    "id": "2-CYMARRMFGEMTN2",
+    "name": "Lechon Factory - Isetann Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60308579, "longitude": 120.9841275 }
+  },
+  {
+    "id": "2-CZLHT26DWFWEWE",
+    "name": "Perico's Grill - Mendiola",
+    "latlng": { "latitude": 14.598426525, "longitude": 120.99358269999999 }
+  },
+  {
+    "id": "2-C2MBC62FA7MDA2",
+    "name": "Shark's Bistro - Padre Noval Street",
+    "latlng": { "latitude": 14.60798178220011, "longitude": 120.98816501376453 }
+  },
+  {
+    "id": "2-C3TYACCGLBNAFE",
+    "name": "Fry Guys - Quiapo",
+    "latlng": { "latitude": 14.60046365, "longitude": 120.9885724 }
+  },
+  {
+    "id": "2-C2XVRNTUSGCGLX",
+    "name": "Brownies Unlimited - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.590633, "longitude": 120.982442 }
+  },
+  {
+    "id": "2-C3LVN26TTAKJG6",
+    "name": "Muhlach Ensaymada - Isetann Recto",
+    "latlng": { "latitude": 14.60329675, "longitude": 120.9838466 }
+  },
+  {
+    "id": "2-CYV3JUW3LPNXTE",
+    "name": "Muhlach Ensaymada - SM Manila",
+    "latlng": { "latitude": 14.59031903, "longitude": 120.983099 }
+  },
+  {
+    "id": "2-C3V1FFVYE4BWL2",
+    "name": "Dejabrew Coffee - Sampaloc",
+    "latlng": { "latitude": 14.60174746, "longitude": 120.9912747 }
+  },
+  {
+    "id": "2-CZJ2MBCEDBCWHE",
+    "name": "Kalsada Burger - UST [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6076718, "longitude": 120.9884945 }
+  },
+  {
+    "id": "2-C3TBETKEEB2GSA",
+    "name": "Mares - Victory Lacson",
+    "latlng": { "latitude": 14.5980992, "longitude": 120.9841511 }
+  },
+  {
+    "id": "2-C2AZE3UAG4E2ET",
+    "name": "June-Nairah Halal Food Restaurant - Elizondo Street",
+    "latlng": { "latitude": 14.5966277, "longitude": 120.9846892 }
+  },
+  {
+    "id": "AWjGMbxcZXYdMpch2oCh",
+    "name": "Cow-Wow Sausage Haus - 937 P. Noval [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6071511, "longitude": 120.98898912 }
+  },
+  {
+    "id": "2-C32UMFVXDCLJLT",
+    "name": "M&M Korean Kravings Atbp - Feu Morayta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60366303, "longitude": 120.9853521 }
+  },
+  {
+    "id": "2-C3L1A6VDTFVYLJ",
+    "name": "Gogodimsum - St. Peter [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.590324, "longitude": 120.982393 }
+  },
+  {
+    "id": "2-C3VCLVDWJTUAAT",
+    "name": "Fat Boy's Pizza Pasta - Youniversity Suites Laperal Manila",
+    "latlng": { "latitude": 14.5997919, "longitude": 120.9905267 }
+  },
+  {
+    "id": "PHGFSTI000001pq",
+    "name": "J-Cobz Bistro - Loyola Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6027034, "longitude": 120.988592 }
+  },
+  {
+    "id": "2-C2AJJKUYGY52A6",
+    "name": "J-Cobz Bistro - Dalupan Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6047201, "longitude": 120.9897071 }
+  },
+  {
+    "id": "2-C2TKTEJKJYKYC6",
+    "name": "Nuli Milktea Studio - Morayta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.604766, "longitude": 120.987763 }
+  },
+  {
+    "id": "2-C343ENC1RA31DE",
+    "name": "GrillHouse by BMS - Recto Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6009677, "longitude": 120.9900593 }
+  },
+  {
+    "id": "2-C2AEDE3ZR7JTCE",
+    "name": "I Love Milktea - Concepcion Manila",
+    "latlng": { "latitude": 14.5976714, "longitude": 120.9881989 }
+  },
+  {
+    "id": "2-CZNFEPB3JE31A6",
+    "name": "I Love Milktea - Sabino Padilla",
+    "latlng": { "latitude": 14.6010712, "longitude": 120.97721166666666 }
+  },
+  {
+    "id": "2-C2LYDB4ZJ4BWRX",
+    "name": "Mariela Bakeshop - Bilibid Viejo Street",
+    "latlng": { "latitude": 14.60067378, "longitude": 120.9872778 }
+  },
+  {
+    "id": "2-C2XWJAXTEF3GA2",
+    "name": "Mister Donut - Lacson Underpass",
+    "latlng": { "latitude": 14.5981151, "longitude": 120.9841068 }
+  },
+  {
+    "id": "2-CYUGHB4ATVDZT6",
+    "name": "Infinitea - Laperal Apartment",
+    "latlng": { "latitude": 14.600719400000001, "longitude": 120.9903795 }
+  },
+  {
+    "id": "2-C2WCLK4VARLDUE",
+    "name": "Corner Pizza - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.590311550202747,
+      "longitude": 120.98234887288855
+    }
+  },
+  {
+    "id": "2-C2NXDB2GJJ5JET",
+    "name": "President Grand Palace Resturant - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.601248, "longitude": 120.976369 }
+  },
+  {
+    "id": "2-C3X3NJCDCGJ1NA",
+    "name": "Rue's Oven - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59029, "longitude": 120.982258 }
+  },
+  {
+    "id": "2-C2UWV6DZJ34ETT",
+    "name": "Pares Kimchi - Mehan Garden",
+    "latlng": {
+      "latitude": 14.591493865386227,
+      "longitude": 120.98114533527132
+    }
+  },
+  {
+    "id": "2-C2X1VRDCHEVJVT",
+    "name": "Chapes Keto Mompreneur - Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5939029, "longitude": 120.9918032 }
+  },
+  {
+    "id": "2-C2TYN8L2RY5HRN",
+    "name": "Tio Paengs - Loyola [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6058478, "longitude": 120.9909107 }
+  },
+  {
+    "id": "2-C3X3L8CAWAEKKA",
+    "name": "Yummie Pizza - P. Paredes Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60375919, "longitude": 120.9891425 }
+  },
+  {
+    "id": "2-C3LXNKBDNNUGCJ",
+    "name": "Happy Ice Scramble - Yuchengco Binondo",
+    "latlng": { "latitude": 14.600335, "longitude": 120.975816 }
+  },
+  {
+    "id": "2-C3VZJJCGL7VHC2",
+    "name": "Lumpianity - Central",
+    "latlng": { "latitude": 14.5928529, "longitude": 120.9817688 }
+  },
+  {
+    "id": "PHGFSTI000003ch",
+    "name": "What the Tea - Amaia Skies",
+    "latlng": { "latitude": 14.6051638, "longitude": 120.98095842500001 }
+  },
+  {
+    "id": "2-CYV2KCM1TBJAV6",
+    "name": "Coffee Project - Vista Heights",
+    "latlng": { "latitude": 14.597548, "longitude": 120.9896859 }
+  },
+  {
+    "id": "2-CYV2KCM1RYUAPE",
+    "name": "Coffee Project - Espana Boulevard",
+    "latlng": { "latitude": 14.606211080000001, "longitude": 120.98912455 }
+  },
+  {
+    "id": "2-C33JTVCGLNAAGJ",
+    "name": "Glazed Unlimited Wings Manila - Gastambide [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60269656, "longitude": 120.9903477 }
+  },
+  {
+    "id": "2-CZKUG3XDRPXYWE",
+    "name": "Fourteasix Milk Tea - Quiapo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.599221632829494,
+      "longitude": 120.98996811557653
+    }
+  },
+  {
+    "id": "PHGFSTI000003f9",
+    "name": "Cafe Aquatica - Binondo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6003466, "longitude": 120.9745674 }
+  },
+  {
+    "id": "2-C2CALEJZVEDJLX",
+    "name": "Soy & Bean and Balai Pandesal - New Piac Bee",
+    "latlng": { "latitude": 14.60167757, "longitude": 120.97780805714287 }
+  },
+  {
+    "id": "2-C2DWWBMVJ4EDEX",
+    "name": "Pizza Haus Manila - Recto Avenue",
+    "latlng": { "latitude": 14.60118366875, "longitude": 120.9896951 }
+  },
+  {
+    "id": "2-C3WFR2VFRLBDJA",
+    "name": "The Hungry Pita - Quiapo",
+    "latlng": { "latitude": 14.599832, "longitude": 120.984634 }
+  },
+  {
+    "id": "2-C2E2C3WCTPWJRE",
+    "name": "Travel Burger Cafe - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6079964, "longitude": 120.98613595 }
+  },
+  {
+    "id": "2-C2LFNVJVTYLWLN",
+    "name": "Takoishi - Binondo",
+    "latlng": { "latitude": 14.598782, "longitude": 120.979038 }
+  },
+  {
+    "id": "2-C36XLBCFA7XYCX",
+    "name": "Midnight Coffee - UST España",
+    "latlng": { "latitude": 14.60773817, "longitude": 120.9873903 }
+  },
+  {
+    "id": "2-C3UFJEAHN35FT6",
+    "name": "K-Egg - Sampaloc Manila",
+    "latlng": { "latitude": 14.60231279, "longitude": 120.9910496 }
+  },
+  {
+    "id": "2-C3XTBEVAARAVVE",
+    "name": "Sun Cafe - Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60004985, "longitude": 120.9748967 }
+  },
+  {
+    "id": "2-C2DJTPE1TKL1FE",
+    "name": "Diversitea - Loyola Street",
+    "latlng": { "latitude": 14.6042256, "longitude": 120.9895675 }
+  },
+  {
+    "id": "2-C2LYCNJHSATBSA",
+    "name": "Buko Express - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59034416, "longitude": 120.9830165 }
+  },
+  {
+    "id": "2-C3WKE3VTRT4ZTE",
+    "name": "Vianney's - University Tower",
+    "latlng": { "latitude": 14.606098, "longitude": 120.989886 }
+  },
+  {
+    "id": "2-C2JUGKVCPBLENN",
+    "name": "Shancha Fresh Juice & Milktea - Benavidez Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60207581, "longitude": 120.9760154 }
+  },
+  {
+    "id": "2-C36GWGCYTPA1LJ",
+    "name": "Mad Brews - Recto [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60198215, "longitude": 120.9878786 }
+  },
+  {
+    "id": "2-C4A2WBCUUGNJSE",
+    "name": "Mad Brews - Morayta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6050519, "longitude": 120.9880883 }
+  },
+  {
+    "id": "2-C4BAJ3VJRLCTG6",
+    "name": "THE Hungry Egg - San Anton Street. Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60283278, "longitude": 120.9905063 }
+  },
+  {
+    "id": "2-C25YJ2DWTT2ZJJ",
+    "name": "Soy & Bean - Pacific Centre Binondo",
+    "latlng": { "latitude": 14.5984653, "longitude": 120.9756467 }
+  },
+  {
+    "id": "2-C25YJ2DWR6CHAN",
+    "name": "Soy & Bean - Jose Figueras",
+    "latlng": { "latitude": 14.60213, "longitude": 120.99287 }
+  },
+  {
+    "id": "2-C3V1FFVYE6ECRE",
+    "name": "Choco Monkey - SM Manila",
+    "latlng": { "latitude": 14.5903182, "longitude": 120.9831812 }
+  },
+  {
+    "id": "2-C3LCLAVAL3JDGX",
+    "name": "Max's Corner Bakery (Cakes, Breads & Pastries) - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59030917, "longitude": 120.9837155 }
+  },
+  {
+    "id": "2-CZLHC2CVNE51GE",
+    "name": "Polland Hopia - Escolta [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.596918306778491,
+      "longitude": 120.97725604555215
+    }
+  },
+  {
+    "id": "2-CZLKKE53JP3AVX",
+    "name": "Polland Hopia - Benavidez Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6028637, "longitude": 120.9765244 }
+  },
+  {
+    "id": "2-C2EARBA2JY2JDE",
+    "name": "Monster Wings - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.590311915609103,
+      "longitude": 120.98277362854529
+    }
+  },
+  {
+    "id": "2-C2NJVVAKTXU2TT",
+    "name": "Tokyo Tokyo - Xentro Mall Legarda",
+    "latlng": { "latitude": 14.6014757, "longitude": 120.9926647 }
+  },
+  {
+    "id": "2-C2UBVTU3GJXHKE",
+    "name": "Goo Dee Taiwan Milk Tea - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60183, "longitude": 120.99336 }
+  },
+  {
+    "id": "2-CY2EGPUFTYKJVX",
+    "name": "Macao Imperial Tea - Mendiola [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60122955, "longitude": 120.9897688 }
+  },
+  {
+    "id": "2-C3JVETCFHCNHNJ",
+    "name": "Sweet Tooth - Legarda",
+    "latlng": { "latitude": 14.600857, "longitude": 120.991672 }
+  },
+  {
+    "id": "2-C2L1VXUYJAWDTE",
+    "name": "Baon Fish - Manila",
+    "latlng": { "latitude": 14.60653725, "longitude": 120.9884474 }
+  },
+  {
+    "id": "2-C2VYAKUVSFLANX",
+    "name": "Chang Thai Tea - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6075075, "longitude": 120.9866534 }
+  },
+  {
+    "id": "PHGFSTI000001d2",
+    "name": "Sisig Sa-Wrap - Gastambide Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6008133, "longitude": 120.9911537 }
+  },
+  {
+    "id": "2-C2AYJX31LPBYBE",
+    "name": "Boba Ka Tea - Loyola Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60522, "longitude": 120.990135 }
+  },
+  {
+    "id": "2-C2K1BFTEFFW1GN",
+    "name": "Mister Lemon - Ermita [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.59028132, "longitude": 120.9822551 }
+  },
+  {
+    "id": "2-C2EBR24TC76JDA",
+    "name": "Sisig Ok - Recto Manila",
+    "latlng": { "latitude": 14.60080873, "longitude": 120.9898487 }
+  },
+  {
+    "id": "2-C2KFCP6KV25DTE",
+    "name": "My Cup - Gonzalo Extension",
+    "latlng": { "latitude": 14.600872, "longitude": 120.9823777 }
+  },
+  {
+    "id": "2-C2DBEKLJGPAXC6",
+    "name": "Big Daddy's Cup - JT Centrale",
+    "latlng": { "latitude": 14.6076433, "longitude": 120.9837719 }
+  },
+  {
+    "id": "2-C23ZN3NYEBJKL6",
+    "name": "Angel's Sizzling - Delos Santos Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6033922, "longitude": 120.9907382 }
+  },
+  {
+    "id": "2-C22TG2DKAJ5JJE",
+    "name": "The Tapsishop - Sampaloc Manila",
+    "latlng": { "latitude": 14.608459, "longitude": 120.986133 }
+  },
+  {
+    "id": "2-C2NDVUETREAZME",
+    "name": "Uncle Bro's On-Line Pizza Hub - Campus Tambayan",
+    "latlng": { "latitude": 14.604006, "longitude": 120.987582 }
+  },
+  {
+    "id": "2-CZNTEBLEV6TAPE",
+    "name": "Chicken Houz - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6007516, "longitude": 120.9912471 }
+  },
+  {
+    "id": "2-C2B1VKEFVF6HRT",
+    "name": "Belden Milktea - Tolentino Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.607526, "longitude": 120.987775 }
+  },
+  {
+    "id": "2-C2A3L26AEGK2VA",
+    "name": "Coffee Plus - Metro Suites Building [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.6082067, "longitude": 120.98763833333332 }
+  },
+  {
+    "id": "2-C2NXGFKDPEEACE",
+    "name": "Happy Thirstday - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.607373, "longitude": 120.987819 }
+  },
+  {
+    "id": "2-C2J1G221N8L3AA",
+    "name": "Yoshimeatsu - UST U-Belt",
+    "latlng": { "latitude": 14.605315, "longitude": 120.988731 }
+  },
+  {
+    "id": "2-C3AAR2CCLFKKHE",
+    "name": "Tin & Kyle Silog Silogan - Gastambide St [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.602665, "longitude": 120.990423 }
+  },
+  {
+    "id": "2-CY2ATPJTE3XUCJ",
+    "name": "Sisig Station - St Thomas Square",
+    "latlng": { "latitude": 14.6057051, "longitude": 120.98865640000001 }
+  },
+  {
+    "id": "2-C2V1DCCZFCDYKA",
+    "name": "NikNoks Eatery - Gastambide St.",
+    "latlng": { "latitude": 14.6014, "longitude": 120.991008 }
+  },
+  {
+    "id": "2-C33BT7EDNXWVNE",
+    "name": "Sarrapsa - Sampaloc [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.604471, "longitude": 120.990595 }
+  },
+  {
+    "id": "2-C2JEHETAJKVWCT",
+    "name": "It's Time Unliwings - Sampaloc",
+    "latlng": { "latitude": 14.6050463, "longitude": 120.9910088 }
+  },
+  {
+    "id": "2-CYNKJULVEVNDEA",
+    "name": "Nitro 7 Coffee and Tea Bar - L.A Village",
+    "latlng": { "latitude": 14.6010305, "longitude": 120.9903005125 }
+  },
+  {
+    "id": "2-C3X3L8CAVTXUT6",
+    "name": "Urbanitea - P. Paredes St. [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.60375919, "longitude": 120.9891425 }
+  },
+  {
+    "id": "2-CZMHV2B3C3AVNX",
+    "name": "Chicky Restaurant - Binondo",
+    "latlng": { "latitude": 14.60207581, "longitude": 120.9760154 }
+  },
+  {
+    "id": "2-C2TACP3FJ4N2EA",
+    "name": "The Brewed Buddies - SM Manila [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.590258468592637,
+      "longitude": 120.98297489814934
+    }
+  },
+  {
+    "id": "2-C2VTKEBWNRCXEJ",
+    "name": "AJ Takoyaki Express - Sampaloc",
+    "latlng": {
+      "latitude": 14.601453603170697,
+      "longitude": 120.99095362875124
+    }
+  },
+  {
+    "id": "2-C2CAEE63HBVVTT",
+    "name": "Tea Manila - Sampaloc",
+    "latlng": { "latitude": 14.60158156, "longitude": 120.9914059 }
+  },
+  {
+    "id": "2-C23DT76JFEXTCJ",
+    "name": "The Cake Project - Ongpin Corner",
+    "latlng": { "latitude": 14.59996229, "longitude": 120.97492218 }
+  },
+  {
+    "id": "PHGFSTI000001pi",
+    "name": "Five Spice Express - Ramada by Wyndham Manila Central",
+    "latlng": { "latitude": 14.600041, "longitude": 120.975008 }
+  },
+  {
+    "id": "2-CY2EFBCDTNC1L2",
+    "name": "Boba Milk Tea By Kowloon House - Legarda [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": { "latitude": 14.5978789, "longitude": 120.98967024 }
+  },
+  {
+    "id": "2-C2L3PGEKJ3XFBA",
+    "name": "J&G Milktea Avenue - Trinidad Street",
+    "latlng": {
+      "latitude": 14.601878853098555,
+      "longitude": 120.98229999997614
+    }
+  }
+]
